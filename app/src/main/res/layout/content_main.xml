@@ -1,0 +1,15 @@
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:text="Swipe right or press the Drawer Button to open the Navigation Drawer."
+    android:textAlignment="center"
+    android:textSize="25sp"
+    android:id="@+id/textanim"
+    android:textColor="#FF9800"
+    android:padding="10dp"
+    />
+</RelativeLayout>
